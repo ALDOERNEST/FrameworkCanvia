@@ -1,0 +1,4 @@
+[01/05/2020 14:09:42] - [Obtener Datos] Informativo: CrearArchivoExcel In
+[01/05/2020 14:09:42] - [Obtener Datos] Informativo: CrearArchivoExcel Out
+[01/05/2020 14:11:29] - [AsignacionDatosTrabajadores] Informativo: 2.1 Tomar Datos : Se realizó el Proceso con éxito
+[01/05/2020 14:11:31] - [AsignacionDatosTrabajadores] Informativo: CrearArchivoExcel In
